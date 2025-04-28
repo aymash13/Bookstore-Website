@@ -44,6 +44,18 @@ if(isset($_POST['add_to_cart'])){
 <body>
 <?php include "navbar.php";?>
 
+<section class="home" style="background: url('images/HomeCover1.jpg') no-repeat center center/cover; width: 100%;">
+   
+   <div class="content">
+      <h3>Handpicked Books Delivered to Your Door</h3>
+      <p >Discover a world of stories carefully selected just for you. From bestsellers to hidden gems, Librarium brings your next favorite book straight to your doorstep.</p>
+      <a href="about.php" class="white-btn">Discover More</a>
+   </div>
+
+</section>
+
+
+
 <section class="products">
    <h1 class="title">latest products</h1>
    <div class="box-container">
@@ -102,5 +114,7 @@ if(isset($_POST['add_to_cart'])){
 
 <?php include("footer.php");?>
 <script src="js/script.js"></script>
+
+
 </body>
 </html>

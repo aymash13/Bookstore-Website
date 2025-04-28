@@ -11,13 +11,6 @@ if(isset($message)){
 }
 ?>
 <header class="header">
-
-   <div class="header-1">
-      <div class="flex">
-         <p> new <a href="login.php">login</a> | <a href="register.php">register</a> </p>
-      </div>
-   </div>
-
    <div class="header-2">
       <div class="flex">
          <a href="home.php" class="logo">Librarium</a>
