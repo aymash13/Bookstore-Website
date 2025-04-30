@@ -1,6 +1,7 @@
 📚 Bookstore Website
 
-A dynamic and responsive online bookstore website built using HTML, CSS, JavaScript, and PHP, with MySQL for database management. This project allows users to browse, search, and purchase books, while offering admin-side functionality for managing inventory and orders.
+A dynamic and responsive online bookstore website built using HTML, CSS, JavaScript, and PHP, with MySQL for database management.
+This project allows users to browse, search, and purchase books, while offering admin-side functionality for managing inventory and orders.
 
 
 🌟 Features
@@ -16,8 +17,14 @@ A dynamic and responsive online bookstore website built using HTML, CSS, JavaScr
 📱 Responsive Design – Optimized for mobile, tablet, and desktop.
 
 
+
+
+
 🛠️ Technologies Used
 
+
 Frontend	: HTML5 , CSS3	, JavaScript
+
 Backend	: 	PHP
+
 Database : MySQL
