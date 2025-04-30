@@ -18,7 +18,6 @@ A dynamic and responsive online bookstore website built using HTML, CSS, JavaScr
 
 🛠️ Technologies Used
 
-Frontend	Backend	Database
-HTML5      	PHP    	MySQL
-CSS3		
-JavaScript
+Frontend	: HTML5 , CSS3	, JavaScript
+Backend	: 	PHP
+Database : MySQL
