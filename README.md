@@ -1,4 +1,4 @@
-📚 Bookstore Website
+📚 Boundless books
 
 A dynamic and responsive online bookstore website built using HTML, CSS, JavaScript, and PHP, with MySQL for database management.
 This project allows users to browse, search, and purchase books, while offering admin-side functionality for managing inventory and orders.
